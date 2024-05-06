@@ -4,7 +4,7 @@
 
 🟢LinkedIn Post : coming soon
 
-🟢Message me on LinkedIn if u have any doubts / need Figma file - [http://tinyurl.com/aaghashmli](https://www.linkedin.com/in/sanjeygm/)
+🟢Message me on LinkedIn if u have any doubts / need Figma file - https://www.linkedin.com/in/sanjeygm/
 
 Dashboard Image:
 ![Dashboard Image](https://github.com/aaghashm/Tableau/assets/66006584/9aa4eb30-a4df-4118-bc91-d7719df515ad)
